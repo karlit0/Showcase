@@ -1,0 +1,1 @@
+laboratorijska vježba korištenja A* algoritma za pronalazak najkraceg puta u prostoru prikazanom kao matrica

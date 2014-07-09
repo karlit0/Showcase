@@ -1,0 +1,1 @@
+Projekt napravljen u sklopu vještine Razvoj Usluga i Aplikacija za OS Android - potankosti se nalaze u Geofencing.ppt

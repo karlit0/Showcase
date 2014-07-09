@@ -1,0 +1,54 @@
+
+testingbang.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Mel
+  rotate: false
+  xy: 1, 559
+  size: 169, 331
+  orig: 169, 331
+  offset: 0, 0
+  index: -1
+Billy
+  rotate: false
+  xy: 172, 589
+  size: 188, 301
+  orig: 188, 301
+  offset: 0, 0
+  index: -1
+Esteban
+  rotate: false
+  xy: 1, 267
+  size: 173, 290
+  orig: 173, 290
+  offset: 0, 0
+  index: -1
+Sanchez
+  rotate: false
+  xy: 1, 1
+  size: 184, 264
+  orig: 184, 264
+  offset: 0, 0
+  index: -1
+Joe
+  rotate: false
+  xy: 362, 598
+  size: 130, 292
+  orig: 130, 292
+  offset: 0, 0
+  index: -1
+Joebang
+  rotate: false
+  xy: 176, 309
+  size: 130, 278
+  orig: 130, 278
+  offset: 0, 0
+  index: -1
+Joebang_nosmile
+  rotate: false
+  xy: 187, 29
+  size: 130, 278
+  orig: 130, 278
+  offset: 0, 0
+  index: -1
